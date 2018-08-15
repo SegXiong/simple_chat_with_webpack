@@ -6,6 +6,7 @@
   },
   "dependencies": {
     "@rails/webpacker": "3.5",
+    "actioncable": "^5.2.1",
     "normalize.css": "^7.0.0",
     "postcss-nested": "^3.0.0"
   },
